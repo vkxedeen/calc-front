@@ -1787,6 +1787,11 @@ internal-slot@^1.0.5, internal-slot@^1.0.7:
     hasown "^2.0.0"
     side-channel "^1.0.4"
 
+inversify@^6.0.2:
+  version "6.0.2"
+  resolved "https://registry.yarnpkg.com/inversify/-/inversify-6.0.2.tgz#dc7fa0348213d789d35ffb719dea9685570989c7"
+  integrity sha512-i9m8j/7YIv4mDuYXUAcrpKPSaju/CIly9AHK5jvCBeoiM/2KEsuCQTTP+rzSWWpLYWRukdXFSl6ZTk2/uumbiA==
+
 is-array-buffer@^3.0.4:
   version "3.0.4"
   resolved "https://registry.yarnpkg.com/is-array-buffer/-/is-array-buffer-3.0.4.tgz#7a1f92b3d61edd2bc65d24f130530ea93d7fae98"
@@ -2357,6 +2362,11 @@ react@^18.2.0:
   integrity sha512-/3IjMdb2L9QbBdWiW5e3P2/npwMBaU9mHCSCUzNln0ZCYbcfTsGbTJrU/kGemdH2IWmB2ioZ+zkxtmq6g09fGQ==
   dependencies:
     loose-envify "^1.1.0"
+
+reflect-metadata@^0.2.1:
+  version "0.2.1"
+  resolved "https://registry.yarnpkg.com/reflect-metadata/-/reflect-metadata-0.2.1.tgz#8d5513c0f5ef2b4b9c3865287f3c0940c1f67f74"
+  integrity sha512-i5lLI6iw9AU3Uu4szRNPPEkomnkjRTaVt9hy/bn5g/oSzekBSMeLZblcjP74AW0vBabqERLLIrz+gR8QYR54Tw==
 
 reflect.getprototypeof@^1.0.4:
   version "1.0.5"
